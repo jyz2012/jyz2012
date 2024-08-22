@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://cards.jerryz.com.cn/api?img=3&luogu=@jyz2012&codeforces=@jyz2012&color=199%2C83%2C83%2C1&bg=47%2C110%2C18%2C0&email=jyz0621%40vip.qq.com)
-
-![](https://v2.jinrishici.com/one.svg?font-size=38&spacing=6&color=DodgerBlue)
+# 啥都木有
